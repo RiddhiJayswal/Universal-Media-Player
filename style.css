@@ -1,0 +1,37 @@
+/* header */
+header{
+    background-color: aqua;
+    height: 5rem;
+}
+.titlebar{
+    height: 50%;
+    /* outline: 2px solid blue; */
+    display: flex;
+    align-items: center;
+}
+.title-img{
+    height: 60%;
+    margin-left: 1rem;
+}
+.title{
+    font-size: 1rem;
+
+}
+.menu-bar{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-left: 1rem;
+    height: 50%;
+}
+/* main element */
+main{
+    background-color: black;
+    height:calc(100vh - 8rem)
+}
+
+/* footer */
+footer{
+    height:3rem;
+    background-color: grey;
+}
