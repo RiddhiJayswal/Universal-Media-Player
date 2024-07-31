@@ -4,3 +4,10 @@
 body{
     margin: 0px;
 }
+ul{
+    padding: 0;
+    
+}
+li{
+    list-style: none;
+}
